@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KinopoiskApp</string>
+    <string name="popular">Популярные</string>
+    <string name="favourite">Избранное</string>
+    <string name="error">Произошла ошибка при загрузке данных, \nпроверьте подключение к сети</string>
+    <string name="repeat">Повторить</string>
+    <string name="genres">Жанры:</string>
+    <string name="countries">Страны:</string>
+    <string name="not_found">Не найдено</string>
+    <string name="genre_template">%s (%s)</string>
+</resources>
